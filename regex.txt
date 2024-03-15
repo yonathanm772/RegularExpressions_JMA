@@ -1,6 +1,6 @@
 \bgloom(ier|y|iest|ily|s)?\b
 \bhaunt(ed|s|ing(ly)?)?\b
-\bmyster(y|ious(ly)?)\b
+\bmyster(y|ies|ious(ly)?)\b
 \bforbod(ing|e|ed|es)\b
 \bmelanchol(ic|y)\b
 \bterror(iz(ing|e|ed|es)?)?\b
