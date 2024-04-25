@@ -15,7 +15,8 @@ import java.util.HashMap;
 import java.io.*;
 
 
-public class LogFileProcessor {
+public class LogFileProcessor 
+{
 
     private static int lines_parsed = 0;
     private static BufferedReader log_file_reader;
